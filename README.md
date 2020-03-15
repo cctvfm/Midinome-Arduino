@@ -1,13 +1,13 @@
 # Midinome-Arduino
 Midinome Board definition for Arduino
 
-this seems to be working. If you unzip and drop it into the documents/arduino/hardware/ and reset IDE (if there is a tools directory there already you would need to merge them obv)
+There is a file base for windows and another for Mac/Linux.
 
 Windows
 
 C:\Users\USERNAME\Documents\Arduino\hardware
 
-if hardware folder exists, copy 'midinome' and 'tools' folder inside. If hardware folder does not exist, you need to create it.
+if hardware folder exists, copy 'midinome' and 'tools'from the 'Windows' folder inside. If hardware folder does not exist, you need to create it.
 
 Mac
 
