@@ -1,0 +1,16 @@
+menu.cpu=Processor
+
+##############################################################
+
+midinome.name=NomeDuino_v0_1 (ATtiny84, 5V, 12Mhz XTAL)
+
+midinome.upload.using=micronucleusprog
+midinome.upload.protocol=usb
+midinome.upload.tool=micronucleus
+midinome.upload.maximum_size=6012
+
+midinome.build.mcu=attiny84
+midinome.build.f_cpu=12000000L
+midinome.build.board=midinome
+midinome.build.core=arduino:arduino
+midinome.build.variant=tiny14
