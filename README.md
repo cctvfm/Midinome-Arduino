@@ -24,7 +24,7 @@ You need to move the midinome folder as well as it's contents. Your structure sh
 
 ```~/Documents/Arduino/hardware/midinome/avr/boards.txt (etc)```
 
-You can test that this worked by opening Arduino. Under `Tools --> Board` you should now see `CCTV - Cascadence (Attiny84 5V 8Mhz)`
+You can test that this worked by opening Arduino. Under `Tools --> Board` you should now see `NomeDuino`
 
 This is easier to do by downloading this entire repository and unzipping.
 
