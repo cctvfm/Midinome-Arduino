@@ -1,22 +1,3 @@
-# Midinome-Arduino
-Midinome Board definition for Arduino
-
-There is a file base for windows and another for Mac/Linux.
-
-Windows
-
-C:\Users\USERNAME\Documents\Arduino\hardware
-
-if hardware folder exists, copy 'midinome' and 'tools'from the 'Windows' folder inside. If hardware folder does not exist, you need to create it.
-
-Mac
-
-Instructions Pending
-
-
-In Arduino you should now see 'Ultrapalace' and 'Nomeduino' under Tools -> Board
-
-
 
 # Software
 
@@ -81,6 +62,10 @@ Navigate to /commandline. Copy the micronucleus executable in the commandline di
  
  Refer to [this article](https://learn.sparkfun.com/tutorials/how-to-install-an-attiny-bootloader-with-virtual-usb/all), specifically the section titled **Build the Micronucleus Loader (Linux)**
  
+ 
+ 
+In Arduino you should now see 'Ultrapalace' and 'Nomeduino' under Tools -> Board
+
  
 This platform was created following the excellent guide from [Sparkfun](https://learn.sparkfun.com/tutorials/how-to-install-an-attiny-bootloader-with-virtual-usb/all) and if you have any problems, or if you want to explore tweaking the bootloader or board definitions you should definitely read their write up on Attiny84 USB.
 
